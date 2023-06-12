@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Entretenimiento",
+    "description": "Preguntas relacionadas con entretenimiento."
+  },
+  {
+    "category": "Geografía",
+    "description": "Preguntas relacionadas con geografía."
+  },
+  {
+    "category": "Tecnología",
+    "description": "Preguntas relacionadas con tecnología."
+  },
+  {
+    "category": "Biología",
+    "description": "Preguntas relacionadas con biología."
+  },
+  {
+    "category": "Literatura",
+    "description": "Preguntas relacionadas con literatura."
+  },
+  {
+    "category": "Programación",
+    "description": "Preguntas relacionadas con programación."
+  }
+]
